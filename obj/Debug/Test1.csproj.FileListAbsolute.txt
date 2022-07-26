@@ -1,0 +1,6 @@
+C:\Users\zchehreQani\Desktop\session4\Test1\bin\Debug\Test1.exe.config
+C:\Users\zchehreQani\Desktop\session4\Test1\bin\Debug\Test1.exe
+C:\Users\zchehreQani\Desktop\session4\Test1\bin\Debug\Test1.pdb
+C:\Users\zchehreQani\Desktop\session4\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\zchehreQani\Desktop\session4\Test1\obj\Debug\Test1.exe
+C:\Users\zchehreQani\Desktop\session4\Test1\obj\Debug\Test1.pdb
